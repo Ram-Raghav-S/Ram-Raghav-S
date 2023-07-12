@@ -4,6 +4,6 @@ I'm a computer science and mathematics student at the University of Toronto with
 
 ### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-raghav-sharma/)](https://www.linkedin.com/in/ram-raghav-sharma)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rraagghhaavv21@gmail.com)](mailto:defcon.rraagghhaavv21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rraagghhaavv21@gmail.com)](mailto:rraagghhaavv21@gmail.com)
 
 
