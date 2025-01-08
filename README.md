@@ -1,6 +1,6 @@
 ### Hey there, I am Ram Raghav Sharma
 
-I'm a computer science and statistics student at the UofT with a strong interest in algorithm design, cryptography, and software development. I enjoy working on neat projects and tackling complex problems. Feel free to reach out to me — I am always open to collaborate! :smiley:
+I'm a computer science and statistics student at the UofT with a strong interest in deep learning and distributed systems. I enjoy working on neat projects and tackling complex problems. Feel free to reach out to me — I am always open to collaborate! :smiley:
 
 ### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ram-raghav-sharma/)](https://www.linkedin.com/in/ram-raghav-sharma)
